@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518A67BC-1F0E-4124-ADF4-46C30C21CB31}|Calculator-Test\\Calculator-Test.csproj|c:\\users\\augus\\documents\\get academy\\emne3\\4of6\\calculator\\calculator-test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518A67BC-1F0E-4124-ADF4-46C30C21CB31}|Calculator-Test\\Calculator-Test.csproj|solutionrelative:calculator-test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE27C9B-6520-459C-BA23-78991FA1B738}|Calculator-Console\\Calculator-Console.csproj|c:\\users\\augus\\documents\\get academy\\emne3\\4of6\\calculator\\calculator-console\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE27C9B-6520-459C-BA23-78991FA1B738}|Calculator-Console\\Calculator-Console.csproj|solutionrelative:calculator-console\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE27C9B-6520-459C-BA23-78991FA1B738}|Calculator-Console\\Calculator-Console.csproj|c:\\users\\augus\\documents\\get academy\\emne3\\4of6\\calculator\\calculator-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE27C9B-6520-459C-BA23-78991FA1B738}|Calculator-Console\\Calculator-Console.csproj|solutionrelative:calculator-console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Console\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator-Console\\Calculator.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Console\\Calculator.cs",
+              "RelativeToolTip": "Calculator-Console\\Calculator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:08:56.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Calculator-Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Test\\UnitTest1.cs",
+              "RelativeToolTip": "Calculator-Test\\UnitTest1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:05:15.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Console\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator-Console\\Program.cs",
+              "ToolTip": "C:\\Users\\augus\\Documents\\GET academy\\emne3\\4of6\\Calculator\\Calculator-Console\\Program.cs",
+              "RelativeToolTip": "Calculator-Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:04:47.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
