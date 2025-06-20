@@ -1,14 +1,29 @@
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.AssemblyInfoInputs.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.AssemblyInfo.cs
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.csproj.CoreCompileInputs.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\bin\Debug\net9.0\Calculator-Console.exe
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\bin\Debug\net9.0\Calculator-Console.deps.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\bin\Debug\net9.0\Calculator-Console.runtimeconfig.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\bin\Debug\net9.0\Calculator-Console.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\bin\Debug\net9.0\Calculator-Console.pdb
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\refint\Calculator-Console.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.pdb
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\Calculator-Console.genruntimeconfig.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Console\obj\Debug\net9.0\ref\Calculator-Console.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.AssemblyInfoInputs.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.AssemblyInfo.cs
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.csproj.CoreCompileInputs.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/bin/Debug/net9.0/Calculator-Console.exe
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/bin/Debug/net9.0/Calculator-Console.deps.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/bin/Debug/net9.0/Calculator-Console.runtimeconfig.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/bin/Debug/net9.0/Calculator-Console.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/bin/Debug/net9.0/Calculator-Console.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/refint/Calculator-Console.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/Calculator-Console.genruntimeconfig.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Console/obj/Debug/net9.0/ref/Calculator-Console.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/bin/Debug/net9.0/Calculator-Console
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/bin/Debug/net9.0/Calculator-Console.deps.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/bin/Debug/net9.0/Calculator-Console.runtimeconfig.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/bin/Debug/net9.0/Calculator-Console.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/bin/Debug/net9.0/Calculator-Console.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.AssemblyInfoInputs.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.AssemblyInfo.cs
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.csproj.CoreCompileInputs.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.sourcelink.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/refint/Calculator-Console.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/Calculator-Console.genruntimeconfig.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Console/obj/Debug/net9.0/ref/Calculator-Console.dll

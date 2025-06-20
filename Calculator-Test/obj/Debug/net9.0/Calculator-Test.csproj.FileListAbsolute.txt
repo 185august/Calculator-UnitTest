@@ -1,106 +1,212 @@
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\testhost.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\testhost.exe
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\nunit.engine.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\nunit.engine.api.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\nunit.engine.core.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\testcentric.engine.metadata.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Test.deps.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Test.runtimeconfig.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Test.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Test.pdb
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Newtonsoft.Json.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\nunit.framework.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\nunit.framework.legacy.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.csproj.AssemblyReference.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.AssemblyInfoInputs.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.AssemblyInfo.cs
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.csproj.CoreCompileInputs.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculat.4F9C77C5.Up2Date
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\refint\Calculator-Test.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.pdb
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\Calculator-Test.genruntimeconfig.cache
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\obj\Debug\net9.0\ref\Calculator-Test.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\.msCoverageSourceRootsMapping_Calculator-Test
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\CoverletSourceRootsMapping_Calculator-Test
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Console.deps.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Console.runtimeconfig.json
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Console.exe
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Console.dll
-C:\Users\augus\Documents\GET academy\emne3\4of6\Calculator\Calculator-Test\bin\Debug\net9.0\Calculator-Console.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/testhost.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/testhost.exe
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/nunit.engine.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/nunit.engine.api.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/nunit.engine.core.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/testcentric.engine.metadata.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Test.deps.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Test.runtimeconfig.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Test.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Test.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/nunit.framework.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/nunit.framework.legacy.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.csproj.AssemblyReference.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.AssemblyInfoInputs.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.AssemblyInfo.cs
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.csproj.CoreCompileInputs.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculat.4F9C77C5.Up2Date
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/refint/Calculator-Test.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.pdb
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/Calculator-Test.genruntimeconfig.cache
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/obj/Debug/net9.0/ref/Calculator-Test.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/.msCoverageSourceRootsMapping_Calculator-Test
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/CoverletSourceRootsMapping_Calculator-Test
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Console.deps.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Console.runtimeconfig.json
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Console.exe
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Console.dll
+C:/Users/augus/Documents/GET academy/emne3/4of6/Calculator/Calculator-Test/bin/Debug/net9.0/Calculator-Console.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/.msCoverageSourceRootsMapping_Calculator-Test
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/CoverletSourceRootsMapping_Calculator-Test
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/NUnit3.TestAdapter.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/NUnit3.TestAdapter.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/nunit.engine.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/nunit.engine.api.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/nunit.engine.core.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/testcentric.engine.metadata.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Console.deps.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Console.runtimeconfig.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Console
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Test.deps.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Test.runtimeconfig.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Test.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Test.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.TestPlatform.Utilities.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/testhost.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/nunit.framework.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/nunit.framework.legacy.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Console.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/bin/Debug/net9.0/Calculator-Console.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.csproj.AssemblyReference.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.AssemblyInfoInputs.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.AssemblyInfo.cs
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.csproj.CoreCompileInputs.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.sourcelink.json
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculat.4F9C77C5.Up2Date
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/refint/Calculator-Test.dll
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.pdb
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/Calculator-Test.genruntimeconfig.cache
+/home/august/RiderProjects/Calculator-UnitTest/Calculator-Test/obj/Debug/net9.0/ref/Calculator-Test.dll
